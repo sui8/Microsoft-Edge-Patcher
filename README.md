@@ -2,6 +2,7 @@
 ## (English)
 ### What I can do?
 The old Edge HTML version of Microsoft Edge and the new Choromium version can be coexisted in one click.  
+Download it [here](https://github.com/suiken-Developer/Microsoft-Edge-Patcher/releases).
 
 ### Usage
 1. Unzip the downloaded file.  
