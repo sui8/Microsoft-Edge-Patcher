@@ -14,7 +14,8 @@ This software edits the registry.
 ## (日本語)
 ### 概要
 Microsoft Edgeの旧EdgeHTML版と新Choromium版を1クリックで共存可能な環境にします。  
-
+ダウンロードは[こちら](https://github.com/suiken-Developer/Microsoft-Edge-Patcher/releases)から。
+  
 ### 使い方
 1. ダウンロードしたファイルを解凍。  
 2. Readme.txtに従って実行。    
